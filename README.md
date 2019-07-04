@@ -2,18 +2,6 @@
 
 *Language Settings Widget for Cisco Video Codecs*
 
----
-
-**ToDo's:**
-
-- [ ] Consider writing your README first.  Doing so helps you clarify your intent, focuses your project, and it is much more fun to write documentation at the beginning of a project than at the end of one, see:
-    - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-    - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [ ] Ensure you put the [license and copyright header](./HEADER) at the top of all your source code files.
-- [ ] Be mindful of the third-party materials you use and ensure you follow Cisco's policies for creating and sharing Cisco Sample Code.
-
----
-
 ## Motivation
 
 Although language selection is available in **Settings** panel on Cisco video codecs, it may be difficult to find and navigate for ordinary users. This widget and macro has been created to simplify the language selection process and to reset the language to a default one after a call is completed (imagine for example that someone sets the language to Arabic and you need to set it back to English).
@@ -21,11 +9,11 @@ Although language selection is available in **Settings** panel on Cisco video co
 ## Show Me!
 
 The following picture shows a language selection process from English to German:
-[Language Selection](./images/combo_1.png)]
+[![Language Selection](./images/combo_1.png)]
 Then the whole user interface is switched to German - settings, call controls...:
-[German UI](./images/combo_2.png)]
+[![German UI](./images/combo_2.png)]
 Same applies to Chinese:
-[German UI](./images/combo_3.png)]
+[![German UI](./images/combo_3.png)]
 
 ## Features
 

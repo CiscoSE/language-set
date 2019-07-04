@@ -18,7 +18,7 @@ Same applies to Chinese:
 ## Features
 
 The widget and macro provide following functions:
-- set the codec user interface language from a limited list of selected languages (in this case it's three)
+- set the codec user interface language from a limited list of languages (in this example it's three)
 - reset the language back to default once a call is completed on the codec
 
 ## Technologies & Frameworks Used

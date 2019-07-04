@@ -9,11 +9,11 @@ Although language selection is available in **Settings** panel on Cisco video co
 ## Show Me!
 
 The following picture shows a language selection process from English to German:
-[![Language Selection](./images/combo_1.png)]
+![Language Selection](./images/combo_1.png)
 Then the whole user interface is switched to German - settings, call controls...:
-[![German UI](./images/combo_2.png)]
+![German UI](./images/combo_2.png)
 Same applies to Chinese:
-[![German UI](./images/combo_3.png)]
+![German UI](./images/combo_3.png)
 
 ## Features
 

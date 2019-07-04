@@ -56,7 +56,7 @@ Smart people responsible for the creation and maintenance of this project:
 
 ## Credits
 
-Give proper credit.  Inspired by another project or article?  Was your work made easier by a tutorial?  Include links to the people, projects, and resources that were influential in the creation of this project.
+Inspired by a customer request. A global company needed to provide localized user interface. Although the company communication language is English, it's more convenient to provide a local language of choice.
 
 ## License
 

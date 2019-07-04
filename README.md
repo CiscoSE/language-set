@@ -43,7 +43,7 @@ If people like your project, they will want to use it.  Show them how.
 3. verify the widget layout and do **Export to video system**
 4. check that you can open the widgets on the Touch10 of the video system
 5. open Macro Editor and upload the [language-set.js](./language-set.js) using **Import from file**
-6. customize the list of languages in the **const LANGUAGES** (line 7). Full list of languages can be obtained via CLI (SSH to the codec) by entering **xconfiguration UserInterface Language:** and pressing **<TAB>**
+6. customize the list of languages in the **const LANGUAGES** (line 33). Full list of languages can be obtained via CLI (SSH to the codec) by entering **xconfiguration UserInterface Language:** and pressing **<TAB>**
 7. save and activate the macro
 
 You are now ready to test the widgets. Try tapping the **Language Settings** icon on the home screen, select the language and check if the user interface has changed. Use macro editor console for debugging.
